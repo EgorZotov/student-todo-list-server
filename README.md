@@ -16,7 +16,7 @@
 
 ## Порядок начала работы
 
-1. Необходимо склонировать данный репозиторий с помощью команды ```git clone https://github.com/EgorZotov/student-todo-list-server```
+1. Необходимо склонировать данный репозиторий с помощью команды ```git clone https://github.com/EgorZotov/student-todo-list-server.git```
 2. Требуется наличие NodeJS на компьютере. Установить его можно, скачав с https://nodejs.org/en/
 3. Далее необходимо открыть терминал на вашем компьютере. Если вдруг кто-то это не умеет это делать: http://softwarius.ru/8-sposobov-otkryit-cmd-ot-imeni-administratora-v-windows-10/
 4. В терминале переходим в папку с проектом (та папка где лежит файл package.json) и с помощью команды `npm i` устанавливаем зависимости проекта.
